@@ -23,6 +23,7 @@ colorArray.forEach(element => {
     option2.innerHTML = optionText;
     option2.value = element;
     colorSelect.appendChild(option2);
+    
 });
 
 ok.addEventListener('click', () => {

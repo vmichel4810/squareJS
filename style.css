@@ -31,8 +31,7 @@ main{
     box-sizing: border-box;
     border: black solid 2px;
     border-right: none;
-    border-bottom: none;
-    z-index: 2000;    
+    border-bottom: none;   
 }
 
 .container2 .square{
